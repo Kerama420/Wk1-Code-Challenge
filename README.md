@@ -71,9 +71,9 @@ node gradeCalculator.js
 Modify the inputs directly in the code to test with different values.
 
 Examples:
-Run the Grade Calculator: node Challenge-1.js
-Run the Speed Test Program: node Challenge-2.js
-Run the Net Salary Calculator: node Challenge-3.js
+Run the Grade Calculator: node Challenge-1.js.
+Run the Speed Test Program: node Challenge-2.js.
+Run the Net Salary Calculator: node Challenge-3.js.
 
 Troubleshooting
 Error: "node: command not found"
