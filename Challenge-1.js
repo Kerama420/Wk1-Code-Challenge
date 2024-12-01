@@ -21,4 +21,4 @@ function studentGrade(marks) {
     }
 }
 
-console.log(studentGrade(101)); 
+console.log(studentGrade(89)); 
