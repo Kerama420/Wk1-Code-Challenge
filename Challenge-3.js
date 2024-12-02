@@ -15,7 +15,6 @@ function calculateNetSalary(basicSalary, benefits) {
 }
 function calculatePAYE(grossSalary) {
     let paye = 0;
-
     if (grossSalary <= 24000) {
         paye = grossSalary * 0.1; 
     } else if (grossSalary <= 32333) {
