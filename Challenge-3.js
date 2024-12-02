@@ -46,8 +46,7 @@ function calculateNHIF(grossSalary) {
 }
 function calculateNSSF(grossSalary) {
     const tier1Limit = 6000;
-    const contributionRate = 0.06; // 
-
+    const contributionRate = 0.06; 
     return grossSalary <= tier1Limit ? grossSalary * contributionRate : tier1Limit * contributionRate;
 }
 calculateNetSalary(50000, 10000); 
